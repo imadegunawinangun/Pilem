@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pilem</string>
+    <string name="movies">Movies</string>
+    <string name="tvs">TV Shows</string>
+    <string name="name">Name</string>
+    <string name="rating">Rating</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc egestas quam vel urna malesuada malesuada. Sed orci ex, euismod sit amet dui ut, iaculis bibendum urna. Phasellus ornare mollis luctus. Aenean mauris eros, tristique non interdum vel, rhoncus eu arcu. Vivamus tellus nibh, tempus quis dapibus non, malesuada et lectus. Maecenas vel arcu blandit, cursus neque at, lobortis nisi. Nunc venenatis elementum ligula, non euismod augue dignissim at. Donec fringilla in quam commodo blandit. Ut ac orci consequat, bibendum ligula auctor, gravida lorem. Phasellus in molestie est, vitae accumsan augue. Nulla pretium sem eleifend nunc ullamcorper, nec ultricies ante viverra. Sed vulputate enim quis diam consectetur, sit amet elementum nisl lacinia. Maecenas et semper nibh.</string>
+    <string name="todo">todo</string>
+    <string name="duration">duration</string>
+    <string name="menu_bookmark">menu bookmark</string>
+</resources>
