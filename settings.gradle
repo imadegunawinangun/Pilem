@@ -1,2 +1,6 @@
 rootProject.name = "Pilem"
 include ':app'
+include ':core'
+include ':maps'
+include ':profil'
+include ':favorite'
